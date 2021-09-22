@@ -1,6 +1,5 @@
-<h1 align="center">Hey 모두들 안녕 내가 누군지 아니?</h1>
-<h2 align="center">이경업 이다 이경업 이다</h2>
-<h3 align="center">A passionate frontend developer from South Korea</h3>
+<h2 align="center">Developer Kid 이경업</h2>
+<h3 align="center">from South Korea</h3>
 
 - 📫 How to reach me **dlrkql0007@gmail.com**
 
