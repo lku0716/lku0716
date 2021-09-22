@@ -1,4 +1,5 @@
-<h2 align="center">Developer Kid KyungUp Lee</h2>
+<h2 align="center">KyungUp Lee</h2>
+
 <h3 align="center">🔴from South Korea🔵</h3>
 
 <p align="center"> 📫 dlrkql0007@gmail.com</p>
