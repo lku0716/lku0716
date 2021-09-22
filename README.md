@@ -1,5 +1,5 @@
 <h2 align="center">Developer Kid 이경업</h2>
-<h3 align="center">from South Korea</h3>
+<h3 align="center">🔴from South Korea🔵</h3>
 
 - 📫 How to reach me **dlrkql0007@gmail.com**
 
