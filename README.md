@@ -13,8 +13,8 @@
 <a href="https://twitter.com/l_k_upp" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlrkql0007@gmail.com)](mailto:dlrkql0007@gmail.com)
 </div>
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlrkql0007@gmail.com)](mailto:dlrkql0007@gmail.com)
 
 <p align="center"> 
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
