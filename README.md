@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=lku0716&label=Visits&color=ff00ae&style=flat" alt="lku0716" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lku0716&label=hits&color=00b3ff&style=flat" alt="lku0716" /> </p>
 <h3 align="center">방가방가 햄토리🔴🔵</h3>
 
 <div align="center">
