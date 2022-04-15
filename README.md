@@ -4,9 +4,6 @@
 <p align="center"> 📫 dlrkql0007@gmail.com</p>
 
 <div align="center">
-<a herf="mailto:dlrkql0007@gmail.com" target="_black">
-<img src=https://img.shields.io/badge/Gmail-d14836?&style=for-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
-</a>
 <a href="https://github.com/lku0716" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
