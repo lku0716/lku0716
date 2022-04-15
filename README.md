@@ -41,6 +41,5 @@
   </a> 
 
 </p>
-<div align="center">
+  
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlrkql0007@gmail.com)](mailto:dlrkql0007@gmail.com)
-  </div>
