@@ -1,5 +1,5 @@
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=lku0716&label=Profile%20views&color=0e75b6&style=flat" alt="lku0716" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lku0716&label=Visits&color=ff00ae&style=flat" alt="lku0716" /> </p>
 <h3 align="center">방가방가 햄토리🔴🔵</h3>
 
 <p align="center"> 📫 dlrkql0007@gmail.com</p>
