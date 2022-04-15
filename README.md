@@ -3,6 +3,8 @@
 <h3 align="center">방가방가 햄토리🔴🔵</h3>
 
 <p align="center"> 📫 dlrkql0007@gmail.com</p>
+
+<div align="center">
 <a href="https://github.com/lku0716" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
