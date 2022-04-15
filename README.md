@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lku0716&label=Visits&color=ff00ae&style=flat" alt="lku0716" /> </p>
 <h3 align="center">방가방가 햄토리🔴🔵</h3>
-<a href="https://user-images.githubusercontent.com/80276556/163519172-6d39b077-eb07-4dc9-a6c7-ee5c63f060c6.png>
-<img src="https://user-images.githubusercontent.com/80276556/163519209-082e40dd-888d-4aa9-8da6-c38afa9d5881.png">
+<a href="https://static-cdn.jtvnw.net/jtv_user_pictures/15452bf7-579f-4ec7-8171-47fdb0f0e268-profile_image-300x300.png>
+<img src="https://static-cdn.jtvnw.net/jtv_user_pictures/15452bf7-579f-4ec7-8171-47fdb0f0e268-profile_image-300x300.png">
 </a>
 
 <p align="center"> 📫 dlrkql0007@gmail.com</p>
