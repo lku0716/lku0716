@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flku0716&count_bg=%237F3DC8&title_bg=%2360B0F3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/lku0716"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flku0716&count_bg=%237F3DC8&title_bg=%2360B0F3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
 <h4 align="center">방가방가 햄토리🔴🔵</h3>
 
