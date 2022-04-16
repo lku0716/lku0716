@@ -1,4 +1,4 @@
-<center>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flku0716&count_bg=%23C83DBB&title_bg=%2349BAFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)</center>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flku0716&count_bg=%237F3DC8&title_bg=%2360B0F3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 <h4 align="center">방가방가 햄토리🔴🔵</h3>
 
 <div align="center">
