@@ -1,7 +1,7 @@
 <p align="center">
 <a href="https://github.com/lku0716"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flku0716&count_bg=%237F3DC8&title_bg=%2360B0F3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
-<h4 align="center">방가방가 햄토리🔴🔵</h3>
+<h4 align="center">🔵방가방가 햄토리🔴</h3>
 
 <div align="center">
 <a href="https://static-cdn.jtvnw.net/jtv_user_pictures/15452bf7-579f-4ec7-8171-47fdb0f0e268-profile_image-300x300.png">
