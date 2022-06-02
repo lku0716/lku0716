@@ -9,7 +9,9 @@
 </a>
 </div>
                                                                                                                         
-<p align="center"> 📫 dlrkql0007@gmail.com</p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lku0716)](https://github.com/lku0716/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lku0716)](https://github.com/lku0716/github-readme-stats)
 
 <div align="center">
 <a href="https://github.com/lku0716" target="_blank">
@@ -22,8 +24,6 @@
 </a>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lku0716)](https://github.com/lku0716/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lku0716)](https://github.com/lku0716/github-readme-stats)
 
 <p align="center"> 
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
