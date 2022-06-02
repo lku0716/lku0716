@@ -10,9 +10,6 @@
 </div>
                                                                                                                         
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lku0716)](https://github.com/lku0716/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lku0716)](https://github.com/lku0716/github-readme-stats)
-
 <div align="center">
 <a href="https://github.com/lku0716" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -49,3 +46,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
 </p>
+
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lku0716)](https://github.com/lku0716/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lku0716)](https://github.com/lku0716/github-readme-stats)
